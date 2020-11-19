@@ -11,3 +11,5 @@ Dentro del respositorio se encuentra se encontrará:
 -Informe
 
 Importante: Debe ejecutarse primero el notebook Clusterai_Francisco_Pantoni_EDA, ya que exporta un archivo xlsx que se usará en los modelos de ML
+
+Además el link para visualizar el video explicativo sobre el trabajo realizado: https://youtu.be/Fd6ut9H2CTQ
